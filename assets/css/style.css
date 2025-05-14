@@ -60,7 +60,8 @@ nav .vidas img{
 }
 .painel-principal{
     background: url(../imgs/fundo-geral1.jpg);
-    height: 82.4vh;
+    min-height: 82vh;
+    height: 100%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -69,8 +70,8 @@ nav .vidas img{
 .quadrado{
     background-color: #f8ffd383;
     border: 2px solid #fffb00;
-    height: 180px;
-    width: 180px;
+    height: 150px;
+    width: 150px;
     display: flex;
     justify-content: center;
     align-items: center;
